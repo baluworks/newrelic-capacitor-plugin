@@ -13,7 +13,7 @@
     "ios/Plugin/",
     "NewrelicNewrelicCapacitorPlugin.podspec"
   ],
-  "author": "Newrelic",
+  "author": "baluworks",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
