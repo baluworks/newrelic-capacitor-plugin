@@ -1,5 +1,5 @@
 {
-  "name": "@newrelic/baluworks/newrelic-capacitor-plugin",
+  "name": "@newrelic/newrelic-capacitor-plugin",
   "version": "1.0.0",
   "description": "NewRelic Plugin for ionic Capacitor",
   "main": "dist/plugin.cjs.js",
@@ -13,7 +13,7 @@
     "ios/Plugin/",
     "NewrelicNewrelicCapacitorPlugin.podspec"
   ],
-  "author": "Newrelic",
+  "author": "baluworks",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
