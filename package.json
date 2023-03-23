@@ -1,6 +1,6 @@
 {
-  "name": "@newrelic/newrelic-capacitor-plugin",
-  "version": "1.1.0",
+  "name": "@newrelic/baluworks/newrelic-capacitor-plugin",
+  "version": "1.0.0",
   "description": "NewRelic Plugin for ionic Capacitor",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -17,10 +17,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/newrelic/newrelic-capacitor-plugin"
+    "url": "https://github.com/baluworks/newrelic-capacitor-plugin"
   },
   "bugs": {
-    "url": "https://github.com/newrelic/newrelic-capacitor-plugin/issues"
+    "url": "https://github.com/baluworks/newrelic-capacitor-plugin/issues"
   },
   "keywords": [
     "capacitor",
